@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="#" alt="voxry" /></a> </p>
 
-- 🔭 I’m currently working on **Camplyfied**
+- 🔭 I’m currently working on **Kamplot**
 
 - 🌱 I’m currently learning **Machine Learning, Bioinformatics**
 
